@@ -9,14 +9,14 @@ The code provides an end-to-end **scan-to-BIM pipeline** for reconstructing **ro
 
 ![](./picture/full_pipeline_m.png)
 
-<center><font><b>Figuer 1: Overview of the proposed scan-to-BIM pipeline for Residential Buildings.</b></font></center>
+<center><font align = "center"><b>Figuer 1: Overview of the proposed scan-to-BIM pipeline for Residential Buildings.</b></font></center>
 <br>
-<br>
+
 ![](./picture/whut_data_rms_result_m.png)
 
 <center><b>Figuer 2: RMS error visualization between reconstructed floor plans and original LiDAR
 point clouds on WHUTS.</b></center>
-
+<br>
 
 
 
